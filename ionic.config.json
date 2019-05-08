@@ -1,5 +1,7 @@
 {
   "name": "Ionic4AccurateLocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
